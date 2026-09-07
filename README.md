@@ -1,19 +1,15 @@
-# Hey 👾
+# Hi, I'm Javi.
 
-I'm Javi. Tech Lead at [Veratrak](https://veratrak.com), where I build serverless stuff on AWS for pharma supply chains. Mostly TypeScript, lots of Lambda, occasional existential questions about what we should be building in the first place.
+I've spent the past seven years building software in startups, from hands-on product and backend work to leading delivery in a small team.
 
-I used to sell insurance, which sounds like a weird origin story but turns out understanding how businesses actually work is annoyingly useful when you're designing software for them.
+I'm now based in Bangkok and working on a few things of my own.
 
-London based, Madrid raised.
+Before software, I worked in commercial insurance. That detour made me care about the business problem behind the code, not just the technology.
 
-## What I work with
+## What I use
 
-**Daily drivers:** TypeScript · Node.js · NestJS · Angular · AWS (Lambda, DynamoDB, SQS, S3) · SQL
+Most of my recent work has involved TypeScript, Node.js and AWS, mainly building serverless systems, integrations and data workflows.
 
-**Also in the toolkit:** React · GraphQL · Redux · PHP (Symfony) · MongoDB
+## Elsewhere
 
-**Patterns:** Serverless · Microservices · CI/CD · Event-driven systems
-
-## Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-requejo)
+[Website](https://www.javirequejo.com) · [X](https://x.com/javirequejo_) · [LinkedIn](https://www.linkedin.com/in/javier-requejo)
